@@ -1,0 +1,15 @@
+certifi==2022.12.7
+colorama==0.4.6
+idna==3.4
+imageio-ffmpeg==0.4.7
+imageio==2.23.0
+moviepy==2.0.0.dev2
+numpy==1.24.0
+Pillow==9.3.0
+pip==22.3.1
+proglog==0.1.10
+requests==2.28.1
+setuptools==65.6.3
+tqdm==4.64.1
+urllib3==1.26.13
+wheel==0.38.4
